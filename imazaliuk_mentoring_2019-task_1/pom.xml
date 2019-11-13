@@ -16,7 +16,7 @@
     </modules>
 
     <properties>
-        <jackson.version>2.9.4</jackson.version>
+        <jackson.version>2.10.1</jackson.version>
         <spring.version>5.1.1.RELEASE</spring.version>
         <encoding>UTF-8</encoding>
     </properties>
